@@ -10,3 +10,9 @@ public class PPN {
         System.out.println("Total Pembayaran = Rp." + TotalPembayaran);
     }
 }
+// OUTPUT
+// Total Pembelian  = Rp.100000
+// PPN (10%)        = Rp.10000
+// ------------------------------ +
+// Total Pembayaran = Rp.110000
+
