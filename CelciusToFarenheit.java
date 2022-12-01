@@ -10,3 +10,6 @@ public class CelciusToFarenheit {
         System.out.print("Suhu dalam skala Farenheit = " + valueFarenheit);
     }
 }
+// OUTPUT
+// Suhu dalam skala Celcius   = 50
+// Suhu dalam skala Farenheit = 122
